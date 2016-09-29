@@ -6,8 +6,16 @@ A broken HTTP server for testing.
 
 ## Install
 
+As a CLI:
+
 ```bash
-npm install --save broken-http-server
+npm install -g broken-http-server
+```
+
+As a library:
+
+```bash
+npm install --save-dev broken-http-server
 ```
 
 Requires Node v6+
