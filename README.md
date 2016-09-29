@@ -4,6 +4,8 @@
 
 A broken HTTP server for testing.
 
+![cli-gif](./stop-writing-body-halfway.gif)
+
 ## Install
 
 As a CLI:
