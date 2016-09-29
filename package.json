@@ -7,7 +7,7 @@
     "test": "test"
   },
   "bin": {
-    "broken-http-server": "./lib/bin/server"
+    "broken-http-server": "./lib/bin/server.js"
   },
   "scripts": {
     "test": "npm run test:fast",
